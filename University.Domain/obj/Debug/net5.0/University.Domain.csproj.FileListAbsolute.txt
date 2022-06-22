@@ -1,0 +1,12 @@
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Domain\bin\Debug\net5.0\University.Domain.deps.json
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Domain\bin\Debug\net5.0\University.Domain.dll
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Domain\bin\Debug\net5.0\University.Domain.pdb
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Domain\obj\Debug\net5.0\University.Domain.csproj.AssemblyReference.cache
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Domain\obj\Debug\net5.0\University.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Domain\obj\Debug\net5.0\University.Domain.AssemblyInfoInputs.cache
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Domain\obj\Debug\net5.0\University.Domain.AssemblyInfo.cs
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Domain\obj\Debug\net5.0\University.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Domain\obj\Debug\net5.0\University.Domain.dll
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Domain\obj\Debug\net5.0\refint\University.Domain.dll
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Domain\obj\Debug\net5.0\University.Domain.pdb
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Domain\obj\Debug\net5.0\ref\University.Domain.dll

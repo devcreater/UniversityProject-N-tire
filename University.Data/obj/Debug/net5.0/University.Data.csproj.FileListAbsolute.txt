@@ -1,0 +1,15 @@
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\obj\Debug\net5.0\University.Data.csproj.AssemblyReference.cache
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\obj\Debug\net5.0\University.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\obj\Debug\net5.0\University.Data.AssemblyInfoInputs.cache
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\obj\Debug\net5.0\University.Data.AssemblyInfo.cs
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\obj\Debug\net5.0\University.Data.csproj.CoreCompileInputs.cache
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\bin\Debug\net5.0\University.Data.deps.json
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\bin\Debug\net5.0\University.Data.dll
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\bin\Debug\net5.0\University.Data.pdb
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\bin\Debug\net5.0\University.Domain.dll
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\bin\Debug\net5.0\University.Domain.pdb
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\obj\Debug\net5.0\University.Data.csproj.CopyComplete
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\obj\Debug\net5.0\University.Data.dll
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\obj\Debug\net5.0\refint\University.Data.dll
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\obj\Debug\net5.0\University.Data.pdb
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Data\obj\Debug\net5.0\ref\University.Data.dll

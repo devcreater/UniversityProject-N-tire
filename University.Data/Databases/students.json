@@ -1,0 +1,13 @@
+﻿[
+  {
+    "FirsName": "Elbek",
+    "LastName": "Xushboqov",
+    "Age": 19,
+    "Email": "xushboqov.elbek@mail.ru",
+    "Course": 2,
+    "Faculty": "World Finance",
+    "Id": 1,
+    "CreatedAt": "2022-06-14T13:01:09.8613762+05:00",
+    "UpdatedAt": "0001-01-01T00:00:00"
+  }
+]

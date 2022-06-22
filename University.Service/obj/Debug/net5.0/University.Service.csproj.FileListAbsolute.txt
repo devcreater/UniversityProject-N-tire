@@ -1,0 +1,17 @@
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\obj\Debug\net5.0\University.Service.csproj.AssemblyReference.cache
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\obj\Debug\net5.0\University.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\obj\Debug\net5.0\University.Service.AssemblyInfoInputs.cache
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\obj\Debug\net5.0\University.Service.AssemblyInfo.cs
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\obj\Debug\net5.0\University.Service.csproj.CoreCompileInputs.cache
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\bin\Debug\net5.0\University.Service.deps.json
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\bin\Debug\net5.0\University.Service.dll
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\bin\Debug\net5.0\University.Service.pdb
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\bin\Debug\net5.0\University.Data.dll
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\bin\Debug\net5.0\University.Domain.dll
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\bin\Debug\net5.0\University.Data.pdb
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\bin\Debug\net5.0\University.Domain.pdb
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\obj\Debug\net5.0\University.Service.csproj.CopyComplete
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\obj\Debug\net5.0\University.Service.dll
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\obj\Debug\net5.0\refint\University.Service.dll
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\obj\Debug\net5.0\University.Service.pdb
+C:\Users\Elbek\source\repos\UniverssityProjectInNTire\University.Service\obj\Debug\net5.0\ref\University.Service.dll
